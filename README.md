@@ -204,7 +204,8 @@ Integrantes del grupo:
 * Leiwis Antonio Ospino Ortiz
 * Luis garavito
 
-
+SOBRE EL VIDEO Y FALTAS DEL TRABAJO:
+Nuestro grupo entrego asi debido a que la persona que tiene la cuenta de AWS perdio la contraseña y no pudimos hacer las pruebas del video, tenia todo en la computadora y no puedo recuperarla ahora porque el portatil lo tengo en mantenimiento desde el sabado, apenas lo tenga podre hacer los cambios y el video.
 
 
 Proyecto desarrollado únicamente con fines educativos.
